@@ -31,61 +31,61 @@ For each problem:
 ---
 
 ## Array & Hashing
-Two Sum
-Valid Anagram
-Contains Duplicate
-Product of Array Except Self
-Maximum Subarray
-Maximum Product Subarray
-Find Minimum in Rotated Sorted Array
-Search in Rotated Sorted Array
-3Sum
-Container With Most Water
+Two Sum ,
+Valid Anagram ,
+Contains Duplicate ,
+Product of Array Except Self ,
+Maximum Subarray ,
+Maximum Product Subarray ,
+Find Minimum in Rotated Sorted Array ,
+Search in Rotated Sorted Array ,
+3Sum ,
+Container With Most Water .
 ## Two Pointers
-Valid Palindrome
-3Sum
-Container With Most Water
-Trapping Rain Water
-Best Time to Buy and Sell Stock
-Longest Substring Without Repeating Characters
-Palindromic Substrings
-Longest Palindromic Substring
-Find Median of Two Sorted Arrays
+Valid Palindrome ,
+3Sum ,
+Container With Most Water ,
+Trapping Rain Water ,
+Best Time to Buy and Sell Stock ,
+Longest Substring Without Repeating Characters ,
+Palindromic Substrings ,
+Longest Palindromic Substring ,
+Find Median of Two Sorted Arrays .
 ## Sliding Window
-Best Time to Buy and Sell Stock
-Longest Substring Without Repeating Characters
-Longest Repeating Character Replacement
-Permutation in String
-Minimum Window Substring
-Sliding Window Maximum
+Best Time to Buy and Sell Stock ,
+Longest Substring Without Repeating Characters ,
+Longest Repeating Character Replacement ,
+Permutation in String ,
+Minimum Window Substring ,
+Sliding Window Maximum .
 ## Stack
-Valid Parentheses
-Min Stack
-Generate Parentheses
-Daily Temperatures
-Evaluate Reverse Polish Notation
-Largest Rectangle in Histogram
-Car Fleet
-Binary Search Tree Iterator
-Basic Calculator II
+Valid Parentheses ,
+Min Stack ,
+Generate Parentheses ,
+Daily Temperatures ,
+Evaluate Reverse Polish Notation ,
+Largest Rectangle in Histogram ,
+Car Fleet , 
+Binary Search Tree Iterator ,
+Basic Calculator II .
 ## Binary Search
-Binary Search
-Search 2D Matrix
-Koko Eating Bananas
-Find Minimum in Rotated Sorted Array
-Search in Rotated Sorted Array
-Time Based Key-Value Store
-Median of Two Sorted Arrays
+Binary Search ,
+Search 2D Matrix ,
+Koko Eating Bananas ,
+Find Minimum in Rotated Sorted Array ,
+Search in Rotated Sorted Array ,
+Time Based Key-Value Store ,
+Median of Two Sorted Arrays .
 ## Linked List
-Reverse Linked List
-Merge Two Sorted Lists
-Reorder List
-Remove Nth Node From End of List
-Copy List With Random Pointer
-Add Two Numbers
-Linked List Cycle
-Intersection of Two Linked Lists
-LRU Cache
+Reverse Linked List ,
+Merge Two Sorted Lists ,
+Reorder List ,
+Remove Nth Node From End of List ,
+Copy List With Random Pointer ,
+Add Two Numbers ,
+Linked List Cycle ,
+Intersection of Two Linked Lists ,
+LRU Cache .
 ## Trees
 Maximum Depth of Binary Tree
 Same Tree
