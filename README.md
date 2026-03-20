@@ -4,31 +4,6 @@ This repository contains my solutions to the **Top 150 LeetCode problems**, a cu
 
 ---
 
-## Structure
-
-The repository is organized by topic:
-
-```
-/arrays
-/strings
-/linked-list
-/stack-queue
-/trees
-/graphs
-/dynamic-programming
-/greedy
-/backtracking
-/binary-search
-```
-
-Each folder contains:
-
-* Problem solutions
-* Clear naming based on problem title or number
-* Optimized approaches where applicable
-
----
-
 ## Approach
 
 For each problem:
